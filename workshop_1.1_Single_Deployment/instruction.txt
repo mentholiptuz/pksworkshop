@@ -1,0 +1,5 @@
+Instruction for Workshop 1.1 Single Deployment:
+===============================================
+
+1. Download PuTTy https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
+2. Secure Shell to "Console-VM"  IP: 192.168.2.38
