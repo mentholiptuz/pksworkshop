@@ -5,8 +5,8 @@ Agenda :
 		a. Pre-Req
 		b. Basic - Single Container 
 			i. NGINX
-    c. Adavance - Multi Container 
-      i. YELB
+        c. Adavance - Multi Container 
+      		i. YELB
 
 
 Procedure :
@@ -16,4 +16,4 @@ Procedure :
 		b. Example    namespace : user01
 	3. WINSCP to console   192.168.2.38   (Login with userXX and Pass : P@ssw0rd)
 		a. Transfer file 1_nginx_deployment.yml to console
-Ready to workshop.
+    4. Ready to workshop.
